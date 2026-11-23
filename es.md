@@ -30,7 +30,7 @@ La ketamina bloquea los receptores NMDA de glutamato como bloqueador uncompetiti
 
 3. Atípicos (Salvinorina A e Ibogaína): Vía opioide kappa y polifarmacología
 
-La salvinorina A (de Salvia divinorum) activa de forma selectiva el receptor opioide kappa (KOR), reduciendo la dopamina en el núcleo accumbens entre un 40% y un 60% y generando efectos intensos pero muy breves de 5 a 30 minutos (Butelman & Kreek, 2015: https://pmc.ncbi.nlm.nih.gov/articles/PMC4561799/; Ganado et al., 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12938729/). Por su parte, la ibogaína actúa sobre múltiples receptores (NMDA, KOR, MOR y 5-HT2A), aunque presenta riesgos cardíacos (prolongación del intervalo QT) que motivan la investigación de análogos más seguros (Ganado et al., 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12938729/).
+La salvinorina A (de Salvia divinorum) activa de forma selectiva el receptor opioide kappa (KOR), reduciendo la dopamina extracelular en el núcleo accumbens en estudios de microdiálisis en ratas (la magnitud varía según la dosis, la vía, la especie y la región cerebral) y generando efectos intensos pero muy breves de 5 a 30 minutos; la evidencia sobre su potencial de refuerzo es limitada e inconsistente (Butelman & Kreek, 2015: https://pmc.ncbi.nlm.nih.gov/articles/PMC4561799/; Ganado et al., 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12938729/). Por su parte, la ibogaína actúa sobre múltiples receptores (NMDA, KOR, MOR y 5-HT2A), aunque presenta riesgos cardíacos (prolongación del intervalo QT) que motivan la investigación de análogos más seguros (Ganado et al., 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12938729/).
 
 
 

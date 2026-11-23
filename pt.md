@@ -30,7 +30,7 @@ Diferentemente da serotonina endógena, que é polar e não atravessa a membrana
 
 3. O futuro dos compostos não alucinógenos e a triagem clínica
 
-Essas descobertas impulsionam o estudo de análogos como tabernanthalog e 2-bromo-LSD (Banushi & Polito, 2023: https://pmc.ncbi.nlm.nih.gov/articles/PMC10669348/). Na prática clínica, contudo, protocolos rigorosos continuam essenciais, incluindo a exclusão de histórico de psicose ou transtorno bipolar e a prevenção de riscos como HPPD (Carhart-Harris & Friston, 2019: https://pmc.ncbi.nlm.nih.gov/articles/PMC6588209/; Banushi & Polito, 2023: https://pmc.ncbi.nlm.nih.gov/articles/PMC10669348/).
+Essas descobertas impulsionam o estudo de análogos como 2-bromo-LSD e compostos oxa-iboga (Banushi & Polito, 2023: https://pmc.ncbi.nlm.nih.gov/articles/PMC10669348/). Na prática clínica, contudo, protocolos rigorosos continuam essenciais, incluindo a exclusão de histórico de psicose ou transtorno bipolar e a prevenção de riscos como HPPD (Carhart-Harris & Friston, 2019: https://pmc.ncbi.nlm.nih.gov/articles/PMC6588209/; Banushi & Polito, 2023: https://pmc.ncbi.nlm.nih.gov/articles/PMC10669348/).
 
 
 

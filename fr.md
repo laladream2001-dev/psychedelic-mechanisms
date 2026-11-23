@@ -23,14 +23,14 @@ La kétamine bloque les récepteurs NMDA du glutamate comme bloqueur uncompétit
 
 2. La salvinorine A et le récepteur opioïde kappa (KOR)
 
-Extraite de Salvia divinorum, la salvinorine A est un agoniste sélectif du récepteur KOR qui n'agit pas sur les récepteurs 5-HT2A (Butelman & Kreek, 2015: https://pmc.ncbi.nlm.nih.gov/articles/PMC4561799/). Elle réduit la libération de dopamine dans le noyau accumbens de 40 à 60 %, ce qui explique un très faible potentiel d'abus et des effets intenses mais brefs de 5 à 30 minutes (Ganado et al., 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12938729/).
+Extraite de Salvia divinorum, la salvinorine A est un agoniste sélectif du récepteur KOR qui n'agit pas sur les récepteurs 5-HT2A (Butelman & Kreek, 2015: https://pmc.ncbi.nlm.nih.gov/articles/PMC4561799/). Elle réduit la libération de dopamine dans le noyau accumbens dans des études de microdialyse chez le rat (l'ampleur varie selon la dose, la voie, l'espèce et la région cérébrale) ; les preuves concernant son potentiel de renforcement sont limitées et incohérentes ; ses effets sont intenses mais brefs, de 5 à 30 minutes (Ganado et al., 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12938729/).
 
 
 
 
 3. L'ibogaïne et la sécurité cardiaque
 
-L'ibogaïne interagit avec plusieurs cibles (NMDA, KOR, MOR, 5-HT2A), et son métabolite la noribogaïne possède une demi-vie de 24 à 48 heures. En raison de risques cardiaques liés à l'allongement de l'intervalle QT, les chercheurs développent des analogues non cardiotoxiques tels que les oxa-iboga (Ganado et al., 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12938729/).
+L'ibogaïne interagit avec plusieurs cibles (NMDA, KOR, MOR, 5-HT2A), et son métabolite la noribogaïne possède une demi-vie de 28 à 49 heures chez des volontaires sains et de 24 à 30 heures chez des patients dépendants aux opioïdes. En raison de risques cardiaques liés à l'allongement de l'intervalle QT, les chercheurs développent des analogues non cardiotoxiques tels que les oxa-iboga (Ganado et al., 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12938729/).
 
 
 
