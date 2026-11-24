@@ -9,6 +9,7 @@ Popular-science companion articles for the open-access monograph **“Hallucinog
 
 - **Monograph (PDF, Zenodo):** [doi.org/10.5281/zenodo.24403446](https://doi.org/10.5281/zenodo.24403446)
 - **Full text (Telegraph):** [Hallucinogenic Mechanisms of Psychedelics](https://telegra.ph/Hallucinogenic-Mechanisms-of-Psychedelics-From-Molecular-Pharmacology-to-Predictive-Processing-11-20)
+- **Full text (this site, English):** [Hallucinogenic Mechanisms of Psychedelics — complete full text](full-en.html)
 - **License:** CC BY 4.0
 
 ## Articles by language
